@@ -1,4 +1,7 @@
-# верстка страницы для образовательного учреждения
+# Одностраничный сайт ВУЗа
+
 Используется flex. 
+
 Для генерации css - LESS.
-Доступен по ссылке https://tagea.github.io/html5-isz/
+
+Web-версия [ISZ-Landing](https://tagea.github.io/html5-isz/)
